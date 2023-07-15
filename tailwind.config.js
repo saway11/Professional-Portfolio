@@ -1,4 +1,4 @@
-module.exports = {
+odule.exports = {
     content: [
       "./src/**/*.{js,jsx,ts,tsx}"
     ],

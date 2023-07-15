@@ -1,16 +1,16 @@
 import React from "react";
 
 export default function Projects() {
-    return (
-        <div name="Projects" className="w-full h-full h-screen bg-indigo-600 text-white pt-10">
-            <div className="flex flex-col justify-center items-center w-full h-full">
-                <div className="max-w-[1000px] w-full flex justify-center py-5">
-                    <div className="sm:text-right pb-8 pl-4 pt-6">
-                        <p className="text-4x1 font-bold inline border-b-4 text-orange-200 border-cyan-100">
-                            Projects
-                        </p>
-                    </div>
-                </div>
+  return (
+    <div name="Projects" className="w-full h-full h-screen bg-indigo-600 text-white pt-10">
+      <div className="flex flex-col justify-center items-center w-full h-full">
+        <div className="max-w-[1000px] w-full flex justify-center py-5">
+          <div className="sm:text-right pb-8 pl-4 pt-6">
+            <p className="text-4xl font-bold inline border-b-4 text-orange-200 border-cyan-100">
+              Projects
+            </p>
+          </div>
+        </div>
                 <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-1 px-4">
                     <div className="shadow-md shadow-[#0404c16] hover:scale-110 duration-500 bg-blue-800 max-h-90 m-4">
                         <img className="w-50" src="./img/project-1-img.jpg" alt="The Avengers icon" />
