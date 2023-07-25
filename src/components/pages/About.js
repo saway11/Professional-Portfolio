@@ -1,4 +1,5 @@
 import React from "react";
+import profilePic from '../../assets/img/portfolio-bg-image.jpg';
 
 export default function About() {
   const section = {
@@ -18,7 +19,7 @@ export default function About() {
             </div>
             <div className="max-w-[1000px] w-full h-screen grid sm:grid-cols-2 gap-8 px-4">
               <div className="px-5 py-0">
-                <img src="./img/portfolio-bg-image.jpg" alt="Profile Headshot" />
+                <img src={profilePic} alt="Profile Headshot" />
               </div>
               <div className="text-2xl px-5 italic">
                 <p className="text-white">{section.bio}</p>
