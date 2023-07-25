@@ -61,7 +61,7 @@ export default function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center mr-[100px] hover:ml-[-100px] duration-300 hover:bg-blue-600 text-cyan-100 hover:text-gray-300 px-3">
             <a
               className="flex justify-between items-center w-full"
-                        href="linkedin.com/in/rosa-maría-garcia-447937176"
+                        href="https://www.linkedin.com/in/rosa-mar%C3%ADa-garcia-447937176"
                         target="_blank"
                         rel="noreferrer"
                     >
