@@ -50,9 +50,9 @@ export default function Projects() {
           </div>
           <div className="shadow-md shadow-[#efefef] hover:scale-110 duration-500 bg-blue-800 items-center m-4">
             <img className="w-full h-56" src={project6} target="_blank" alt="Note Taker icon" />
-            <p className="my-5 text-xl">Note Taker</p>
-            <p className="my-5 text-xl hover:text-orange-300"><a href="https://bbbooking.herokuapp.com/" target="_blank" rel="noreferrer">Deployed Site</a></p>
-            <p className="my-3 text-xl hover:text-orange-300"><a href="https://github.com/saway11/Note-Taker.git" target="_blank" rel="noreferrer">Source Code</a></p>
+            <p className="my-5 text-xl">Card X</p>
+            <p className="my-5 text-xl hover:text-orange-300"><a href="https://tranquil-reef-31022-45823b0e137b.herokuapp.com/" target="_blank" rel="noreferrer">Deployed Site</a></p>
+            <p className="my-3 text-xl hover:text-orange-300"><a href="https://github.com/escotoj/Card-X.git" target="_blank" rel="noreferrer">Source Code</a></p>
           </div>
         </div>
       </div>
